@@ -11,3 +11,9 @@ LICENSE file now because we're gonna be pushing our project to git hub and it'll
 And the second is to protect yourself so they can't use you if anything wrong because you basically
 
 we need to start by creating a public private key path.
+
+A serializer is a feature from the django rest framework that allows you to easily convert data inputs into python objects and vice versa.
+
+1. git commit -am "Added custom user profile model, manager and migrations"
+2. git commit -am "Added HelloApiView"
+3. git commit -am "Added POST, PUT, PATCH and DELETE methods to our APIView"
