@@ -17,3 +17,5 @@ A serializer is a feature from the django rest framework that allows you to easi
 1. git commit -am "Added custom user profile model, manager and migrations"
 2. git commit -am "Added HelloApiView"
 3. git commit -am "Added POST, PUT, PATCH and DELETE methods to our APIView"
+
+# Create login API
